@@ -13,7 +13,7 @@ cd GroupConnect
 ## Contribution
 1) Clone the repository with the help of Installation steps
 2) Make your changes
-3) Add all the files and commit them with appropriate messages
+3) Add all the fil  es and commit them with appropriate messages
    ```
    git add
    git commit
