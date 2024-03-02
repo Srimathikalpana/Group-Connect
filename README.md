@@ -4,7 +4,7 @@
 
 ## Installation
 ```
-git clone https://github.com/your-username/GroupConnect.git
+git clone https://github.com/Abbilaash/GroupConnect.git
 ```
 ```
 cd GroupConnect
