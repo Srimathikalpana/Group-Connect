@@ -21,8 +21,3 @@ cd GroupConnect
    ```
 5) Submit a Pull Request to the main branch
 6) The end
-<<<<<<< HEAD
-7) DARSHAN
-=======
-7) test
->>>>>>> 307ca63d7be34b1eb1491b46071eb9ede4270016
