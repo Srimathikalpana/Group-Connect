@@ -20,3 +20,4 @@ cd GroupConnect
    git push
    ```
 5) Submit a Pull Request to the main branch
+6) The end
